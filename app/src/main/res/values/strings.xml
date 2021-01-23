@@ -1,0 +1,10 @@
+<resources>
+    <string name="app">Who Wrote It?</string>
+    <string name="tutorial">Please enter any book name to find out who wrote it. </string>
+    <string name="button">Search All Books</string>
+    <string name="input">Title of Book</string>
+    <string name="no_results">"No Results Found"</string>
+    <string name="searching">Searching...</string>
+    <string name="empty_search">Please input a search term</string>
+    <string name="no_connection">No connection! Please reconnect and reattempt.</string>
+</resources>
